@@ -17,6 +17,7 @@ Original repo - https://github.com/derailed/k9s
 
 ## Features added to this fork
 
+- Add a column to display the pool (segment.com/pool) next to nodes in the nodes view
 
 ---
 
