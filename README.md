@@ -15,6 +15,9 @@ This fork of k9s will contain some segment specific features. Feel free to sugge
 
 Original repo - https://github.com/derailed/k9s
 
+## Features added to this fork
+
+
 ---
 
 ## Documentation
