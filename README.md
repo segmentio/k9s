@@ -17,7 +17,10 @@ Original repo - https://github.com/derailed/k9s
 
 To use k9s from this fork, you will need to clone the repo and build from source. The built executable can then be placed on the PATH to be used.
 
+## Features added to this fork
 
+- Add a column to display the pool (segment.com/pool) next to nodes in the nodes view
+  ![CleanShot 2024-06-06 at 12 57 17](https://github.com/segmentio/k9s/assets/7345249/73b5506c-80a0-46ea-94fa-722a0d451db0)
 
 ---
 
